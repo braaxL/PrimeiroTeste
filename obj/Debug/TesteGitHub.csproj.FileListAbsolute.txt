@@ -1,0 +1,7 @@
+D:\Users\bruno.mapinheiro\source\repos\TesteGitHub\TesteGitHub\bin\Debug\TesteGitHub.exe.config
+D:\Users\bruno.mapinheiro\source\repos\TesteGitHub\TesteGitHub\bin\Debug\TesteGitHub.exe
+D:\Users\bruno.mapinheiro\source\repos\TesteGitHub\TesteGitHub\bin\Debug\TesteGitHub.pdb
+D:\Users\bruno.mapinheiro\source\repos\TesteGitHub\TesteGitHub\obj\Debug\TesteGitHub.csproj.AssemblyReference.cache
+D:\Users\bruno.mapinheiro\source\repos\TesteGitHub\TesteGitHub\obj\Debug\TesteGitHub.csproj.CoreCompileInputs.cache
+D:\Users\bruno.mapinheiro\source\repos\TesteGitHub\TesteGitHub\obj\Debug\TesteGitHub.exe
+D:\Users\bruno.mapinheiro\source\repos\TesteGitHub\TesteGitHub\obj\Debug\TesteGitHub.pdb
